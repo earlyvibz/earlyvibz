@@ -1,3 +1,3 @@
-## Hi there 👋
-
-![Hello](./hello_world.png)
+<p align="center">
+  <img src="./hello_world.png" alt="Hello">
+</p>
